@@ -5,7 +5,7 @@
 -  **Learning :** Full-Stack 🪜 | Blockchain ⛓️
 -  **Hobbies :** Reading 📖 | Handicraft 🔧 | Escape rooms 🔓
 -  **Pronouns :** She/Her 🎃
--  **Reach Me ASAP :** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/yiting-ivy-liu/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivy1205liu.com)](mailto:ivy1205liu@gmail.com)
+-  **Reach Me ASAP :** [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/yiting-ivy-liu/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivy1205liu@gmail.com)](mailto:ivy1205liu@gmail.com)
 
 
 ### 💻 Languages and Tools
